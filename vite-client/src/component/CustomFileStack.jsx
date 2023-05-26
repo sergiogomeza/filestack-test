@@ -23,7 +23,6 @@ const CustomFilestack = () => {
         <PickerOverlay
           apikey={YOUR_API}
           pickerOptions={pickerOptions}
-          ß
           onError={(error) => console.log("error: ", error)}
           onUploadDone={(res) => console.log("upload: ", res)}
           onClick={(res) => console.log("click: ", res)}
