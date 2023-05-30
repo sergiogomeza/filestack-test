@@ -1,0 +1,19 @@
+.fsp-drop-area-container {
+  font-size: 100%;
+  font-family: "Permanent Marker", cursive;
+  height: 100%;
+  padding: 80px;
+  background-repeat: no-repeat;
+  background-color: cadetblue;
+}
+
+.fsp-drop-area {
+  border: 2px dotted violet !important;
+}
+
+.fsp-header {
+  background-color: yellow !important;
+}
+.fsp-source-list {
+  background-color: cyan !important;
+}

@@ -1,5 +1,6 @@
 import { useState } from "react";
 import { PickerOverlay } from "filestack-react";
+import "./CustomFileStack.css";
 
 const CustomFilestack = () => {
   const YOUR_API = import.meta.env.VITE_API_KEY;
